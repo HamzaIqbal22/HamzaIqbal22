@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<!--
+<!--Software Engineer
+🌍  Based in Toronto
+✉️  Reach me at a19khan@torontomu.ca
+🪡  Continuously perfecting my craft
+Skills
+GitJavaJavaScriptPythonCVS CodeSublime TextHTML5ReactCSS3Fast APIOracleMySQLFlaskNodeJSFigmaEthereumSolanaGoogle CloudWordpressWixDockerMacOSLinuxTensorFlow
+
+Socials
+
 **HamzaIqbal22/HamzaIqbal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
