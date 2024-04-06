@@ -5,7 +5,7 @@ Software Engineer
 ---------------------
 
 * 🌍  I'm based in Toronto!
-* ✉️  You can contact me at [hamza.iqbal@torontomu.ca](mailto:hamza.iqbal@torontomu.ca)
+* ✉️  Contact me at [hamza.iqbal@torontomu.ca](mailto:hamza.iqbal@torontomu.ca)
 * ⚡  Constantly learning and developing my skills
 
 ### Skills
