@@ -5,8 +5,7 @@ New Grad - Software Engineer
 ---------------------
 
 * 🌍  I'm based in Toronto!
-* ✉️  Contact me at [hamza.iqbal@torontomu.ca](mailto:hamza.iqbal@torontomu.ca)
-* ✉   You can contact me at https://www.linkedin.com/in/hamza-iqbal-1606661a9/
+* ✉️  Contact me at [hamza.iqbal@torontomu.ca](mailto:hamza.iqbal@torontomu.ca) or connect with me on Linkedin at https://www.linkedin.com/in/hamza-iqbal-1606661a9/
 * 🤝  I am willing to work together on engaging projects that contribute to improving the world
 * ⚡  Constantly learning and developing my skills
 
